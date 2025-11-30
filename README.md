@@ -4,10 +4,6 @@
 
 This project demonstrates timing attack vulnerabilities in password verification systems and provides a secure, constant-time alternative implementation.
 
-**Course:** Introduction to Cryptology  
-**Topic:** Side-Channel Attacks and Countermeasures  
-**Submission Date:** December 21, 2025
-
 ---
 
 ## Files Included
@@ -211,8 +207,6 @@ timing-attack-project/
 ├── timing_attack_demo.py          # Main implementation
 ├── visualization.py                # Graph generation
 ├── README.md                       # This file
-├── Literature_Review.docx          # Literature review
-├── Project_Report.docx             # Project report
 └── outputs/
     ├── timing_comparison.png
     ├── overlay_comparison.png
@@ -224,25 +218,6 @@ timing-attack-project/
 
 ---
 
-## Authors
 
-Student Project  
-Introduction to Cryptology Course  
-Sakarya University - Software Engineering  
-2025-2026 Fall Semester
-
----
-
-## License
-
-This project is for educational purposes as part of academic coursework.
-
----
-
-## Contact
-
-For questions or clarifications about this implementation, please contact the course instructor.
-
----
 
 **Note:** This implementation is for educational demonstration only. For production systems, use well-tested cryptographic libraries with constant-time guarantees.
